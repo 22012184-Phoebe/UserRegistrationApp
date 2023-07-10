@@ -41,6 +41,7 @@ public class UserRegistrationTest {
         boolean result = userRegistration.registerUser("John Doe", 
         													"", "");
         assertFalse(result);
+//        
     }
 
 }

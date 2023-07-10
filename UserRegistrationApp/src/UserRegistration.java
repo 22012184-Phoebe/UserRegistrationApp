@@ -63,5 +63,6 @@ public class UserRegistration {
 		
 		users.add(new User(name, email, password));
 		return true;
+//		
 	}
 }
